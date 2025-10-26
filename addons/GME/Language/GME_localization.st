@@ -396,11 +396,11 @@ StringTable {
   }
   CustomStringTableItem "{62A6ECE003544E7E}" {
    Id "GME-Editor_Attribute_IntelTitel_Name"
-   Target_en_us "Intel titel"
+   Target_en_us "Intel title"
    Target_de_de "Hinweistitel"
-   Modified 1655109662
+   Modified 1656551081
    Author "Kexanone"
-   LastChanged "Kexanone"
+   LastChanged "crow"
   }
   CustomStringTableItem "{62AB6754F6815523}" {
    Id "GME-Editor_Attribute_Skill_CYLON_Name"
@@ -460,6 +460,13 @@ StringTable {
    Target_en_us "Not set"
    Target_de_de "Nicht gesetzt"
    Modified 1655441434
+   Author "Kexanone"
+   LastChanged "Kexanone"
+  }
+  CustomStringTableItem "{654201CA46CFC026}" {
+   Id "GME-Editor_Attribute_Skill_NOOB_Name"
+   Target_en_us "Noob"
+   Modified 1698832425
    Author "Kexanone"
    LastChanged "Kexanone"
   }
