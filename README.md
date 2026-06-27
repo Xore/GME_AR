@@ -23,9 +23,7 @@
 GME is built with communities who use Game Master as their primary mission making tool in mind by enabling them with powerful tools to create dynamic scenarios in an efficient manner.
 
 ## Features
-- Makes saving/loading of scenarios available in MP (**PC only**).
-- Context action to teleport a player to their group leader.
-- Toggle damage and visibility of objects.
+- Toggle damage of objects.
 - Formation, stance and skill attributes for AI.
 - Cycle waypoint to make AI move in repeated patterns.
 - Waypoint radius and completion attributes.
@@ -40,6 +38,21 @@ To contribute something to GME, simply fork this repository and submit your pull
 
 Please use our [Issue Tracker](https://github.com/zen-mod/GME_AR/issues) to report a bug, propose a feature, or suggest changes to the existing ones.
 
+## Author
+
+**Xore**
+
 ## License
 
-Game Master Enhanced is licensed under the Arma Public License ([APL](https://github.com/zen-mod/GME_AR/blob/master/LICENSE.md)).
+Game Master Enhanced is licensed under the **Arma Public License (APL)**.
+
+### Summary
+
+- **Attribution** — You must credit the original author(s) in the manner they specify, without implying their endorsement.
+- **Noncommercial** — You may not use this material for any commercial purposes.
+- **Arma Only** — You may not convert or adapt this material for use in games other than Arma.
+
+You are free to adapt (modify, rework, update) and share (copy, distribute, transmit) this material under those conditions.
+
+Full license text: [LICENSE.md](LICENSE.md)  
+Official APL reference: https://www.bohemia.net/community/licenses/arma-public-license
