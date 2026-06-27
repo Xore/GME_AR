@@ -38,9 +38,10 @@ To contribute something to GME, simply fork this repository and submit your pull
 
 Please use our [Issue Tracker](https://github.com/zen-mod/GME_AR/issues) to report a bug, propose a feature, or suggest changes to the existing ones.
 
-## Author
+## Credits
 
-**Xore**
+**Original project:** [zen-mod/GME_AR](https://github.com/zen-mod/GME_AR)  
+**Fork maintained by:** Xore
 
 ## License
 
